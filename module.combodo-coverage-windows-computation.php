@@ -13,7 +13,7 @@ SetupWebPage::AddModule(
 		// Setup
 		//
 		'dependencies' => array(
-			'combodo-sla-computation/2.0.0',
+			'combodo-sla-computation/2.1.1',
 			'itop-service-mgmt/2.0.0||itop-service-mgmt-provider/2.0.0',
 		),
 		'mandatory' => false,
